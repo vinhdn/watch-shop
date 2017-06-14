@@ -1,0 +1,2513 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Woodstock Extensions\n"
+"POT-Creation-Date: 2016-08-21 22:52+0200\n"
+"PO-Revision-Date: 2016-08-21 22:51+0200\n"
+"Last-Translator: Artem Shashkin <temash@gmaiil.com>\n"
+"Language-Team: Artem Shashkin <temash@gmaiil.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woodstock-extensions.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: framework/extensions/wbc_importer/extension_wbc_importer.php:236
+msgid "Demo Already Imported"
+msgstr ""
+
+#: framework/extensions/wbc_importer/extension_wbc_importer.php:262
+#: framework/extensions/wbc_importer/extension_wbc_importer.php:264
+msgid "Demo Importer"
+msgstr ""
+
+#: framework/extensions/wbc_importer/extension_wbc_importer.php:269
+msgid ""
+"This demo content importer has been built to make the import process as easy "
+"for you as possible. We&#39;ve done what we can to ensure as little "
+"difficulty as possible. We have also gone the extra mile to add in the extra "
+"things are sorted for you, such as setting the home page, menu, and widgets "
+"- things that aren&#39;t possible with the standard WordPress Importer!</"
+"br></br>\n"
+"                    <strong>Steps to take before using this plugin:</"
+"strong></br></br>\n"
+"\n"
+"    1. The import process will work best on a clean install. You can use a "
+"plugin such as WordPress Reset to clear your data for you.</br>\n"
+"    2. Ensure all plugins are installed beforehand, e.g. WooCommerce - any "
+"plugins that you add content to.</br>\n"
+"    3. Once you start the process, please leave it running and uninteruppted."
+"</br>\n"
+"    4. Run Woocommerce Setup Wizard.</br>\n"
+"    5. Enjoy</br>"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:42
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:72
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:84
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:89
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:279
+#: framework/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: framework/woodstock.config.php:100 framework/woodstock.config.php:101
+msgid "Theme Options"
+msgstr ""
+
+#: framework/woodstock.config.php:177
+msgid "Documentation"
+msgstr ""
+
+#: framework/woodstock.config.php:183
+msgid "Support"
+msgstr ""
+
+#: framework/woodstock.config.php:189
+msgid "Extensions"
+msgstr ""
+
+#: framework/woodstock.config.php:244
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/woodstock.config.php:245 framework/woodstock.config.php:250
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/woodstock.config.php:249
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/woodstock.config.php:256
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/woodstock.config.php:286
+msgid "General Settings"
+msgstr ""
+
+#: framework/woodstock.config.php:293
+msgid "Main Content Max Width"
+msgstr ""
+
+#: framework/woodstock.config.php:294 framework/woodstock.config.php:1542
+#: framework/woodstock.config.php:1574 framework/woodstock.config.php:2243
+msgid "This example displays float values"
+msgstr ""
+
+#: framework/woodstock.config.php:295
+msgid "Min: 1170, max: 1440, step: 1, default value: 1440"
+msgstr ""
+
+#: framework/woodstock.config.php:305
+msgid "Select Theme Layout Type"
+msgstr ""
+
+#: framework/woodstock.config.php:309
+msgid "Fullwidth"
+msgstr ""
+
+#: framework/woodstock.config.php:310
+msgid "Boxed"
+msgstr ""
+
+#: framework/woodstock.config.php:311
+msgid "Floating Boxed"
+msgstr ""
+
+#: framework/woodstock.config.php:313
+msgid "Responsive Layout"
+msgstr ""
+
+#: framework/woodstock.config.php:318
+msgid "Select Background Type"
+msgstr ""
+
+#: framework/woodstock.config.php:322
+msgid "None"
+msgstr ""
+
+#: framework/woodstock.config.php:323
+msgid "Color"
+msgstr ""
+
+#: framework/woodstock.config.php:324
+msgid "Custom Background"
+msgstr ""
+
+#: framework/woodstock.config.php:325
+msgid "Pattern Background"
+msgstr ""
+
+#: framework/woodstock.config.php:327
+msgid "Background Type"
+msgstr ""
+
+#: framework/woodstock.config.php:335
+msgid "Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:336
+msgid "Pick a background color"
+msgstr ""
+
+#: framework/woodstock.config.php:344
+msgid "Upload your background image here."
+msgstr ""
+
+#: framework/woodstock.config.php:347
+msgid "Background Image"
+msgstr ""
+
+#: framework/woodstock.config.php:353
+msgid "Check this option if you want to use your custom background as pattern."
+msgstr ""
+
+#: framework/woodstock.config.php:355 framework/woodstock.config.php:787
+#: framework/woodstock.config.php:1327
+msgid "Enable"
+msgstr ""
+
+#: framework/woodstock.config.php:356 framework/woodstock.config.php:788
+#: framework/woodstock.config.php:1328
+msgid "Disable"
+msgstr ""
+
+#: framework/woodstock.config.php:358
+msgid "Repeat Background"
+msgstr ""
+
+#: framework/woodstock.config.php:367
+msgid "Background Pattern"
+msgstr ""
+
+#: framework/woodstock.config.php:368
+msgid "Choose background pattern for your site."
+msgstr ""
+
+#: framework/woodstock.config.php:383
+msgid "Logo & Favicon"
+msgstr ""
+
+#: framework/woodstock.config.php:388
+msgid "Upload your logo image."
+msgstr ""
+
+#: framework/woodstock.config.php:391
+msgid "Your Logo Image"
+msgstr ""
+
+#: framework/woodstock.config.php:396
+msgid "Upload a higher-resolution image to be used for retina display devices."
+msgstr ""
+
+#: framework/woodstock.config.php:399
+msgid "Your Retina Logo Image"
+msgstr ""
+
+#: framework/woodstock.config.php:406
+msgid "Logo Height"
+msgstr ""
+
+#: framework/woodstock.config.php:407
+msgid "Drag the slider to set the logo height."
+msgstr ""
+
+#: framework/woodstock.config.php:425
+msgid "Logo Font"
+msgstr ""
+
+#: framework/woodstock.config.php:426
+msgid "Specify the logo font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:450
+msgid ""
+"Check to show the description (tagline) for your site. Will be displayed "
+"next to a logo."
+msgstr ""
+
+#: framework/woodstock.config.php:453
+msgid "Show Logo Tagline"
+msgstr ""
+
+#: framework/woodstock.config.php:460
+msgid "Logo Tagline Font"
+msgstr ""
+
+#: framework/woodstock.config.php:461
+msgid "Specify the logo Tagline font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:489
+msgid "Left"
+msgstr ""
+
+#: framework/woodstock.config.php:490
+msgid "Center"
+msgstr ""
+
+#: framework/woodstock.config.php:491
+msgid "Right"
+msgstr ""
+
+#: framework/woodstock.config.php:493
+msgid "Logo/Tagline align"
+msgstr ""
+
+#: framework/woodstock.config.php:494
+msgid "Specify the Logo/Tagline align"
+msgstr ""
+
+#: framework/woodstock.config.php:503
+msgid "Favicon Settings"
+msgstr ""
+
+#: framework/woodstock.config.php:507
+msgid "Add your custom Favicon image. 16x16px .ico or .png file required."
+msgstr ""
+
+#: framework/woodstock.config.php:510
+msgid "Favicon"
+msgstr ""
+
+#: framework/woodstock.config.php:526
+msgid "Header Settings"
+msgstr ""
+
+#: framework/woodstock.config.php:534
+msgid "Header Layout"
+msgstr ""
+
+#: framework/woodstock.config.php:535
+msgid "Select the Layout style for the Header."
+msgstr ""
+
+#: framework/woodstock.config.php:553 framework/woodstock.config.php:1344
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/woodstock.config.php:559
+msgid "Header Sticky Menu"
+msgstr ""
+
+#: framework/woodstock.config.php:560
+msgid "Check to enable Header Sticky Menu"
+msgstr ""
+
+#: framework/woodstock.config.php:567 framework/woodstock.config.php:599
+#: framework/woodstock.config.php:610 framework/woodstock.config.php:642
+#: framework/woodstock.config.php:706 framework/woodstock.config.php:717
+#: framework/woodstock.config.php:728 framework/woodstock.config.php:739
+#: framework/woodstock.config.php:796 framework/woodstock.config.php:863
+#: framework/woodstock.config.php:962 framework/woodstock.config.php:971
+#: framework/woodstock.config.php:1001 framework/woodstock.config.php:1020
+#: framework/woodstock.config.php:1092 framework/woodstock.config.php:1113
+#: framework/woodstock.config.php:2385 framework/woodstock.config.php:2491
+#: framework/woodstock.config.php:2565 framework/woodstock.config.php:3368
+msgid "Enabled"
+msgstr ""
+
+#: framework/woodstock.config.php:568 framework/woodstock.config.php:600
+#: framework/woodstock.config.php:611 framework/woodstock.config.php:643
+#: framework/woodstock.config.php:707 framework/woodstock.config.php:718
+#: framework/woodstock.config.php:729 framework/woodstock.config.php:740
+#: framework/woodstock.config.php:797 framework/woodstock.config.php:864
+#: framework/woodstock.config.php:963 framework/woodstock.config.php:972
+#: framework/woodstock.config.php:1002 framework/woodstock.config.php:1021
+#: framework/woodstock.config.php:1093 framework/woodstock.config.php:1114
+#: framework/woodstock.config.php:2386 framework/woodstock.config.php:2492
+#: framework/woodstock.config.php:2566 framework/woodstock.config.php:3369
+msgid "Disabled"
+msgstr ""
+
+#: framework/woodstock.config.php:569
+msgid "Header Sticky Menu Show/Hide on Scroll"
+msgstr ""
+
+#: framework/woodstock.config.php:570
+msgid ""
+"Check to enable Hide Header Sticky Menu on ScrollDown and Show on ScrollUp. "
+"Disable to Always Show Header Sticky Header."
+msgstr ""
+
+#: framework/woodstock.config.php:578 framework/woodstock.config.php:1177
+#: framework/woodstock.config.php:2397 framework/woodstock.config.php:2407
+#: framework/woodstock.config.php:2417 framework/woodstock.config.php:3358
+msgid "Show"
+msgstr ""
+
+#: framework/woodstock.config.php:579 framework/woodstock.config.php:1178
+#: framework/woodstock.config.php:2398 framework/woodstock.config.php:2408
+#: framework/woodstock.config.php:2418 framework/woodstock.config.php:3359
+msgid "Hide"
+msgstr ""
+
+#: framework/woodstock.config.php:580
+msgid "Sticky Menu on Tablet/Mobile devices"
+msgstr ""
+
+#: framework/woodstock.config.php:581
+msgid "Check to Show Hide Header Sticky Menu on Tablet/Mobile devices."
+msgstr ""
+
+#: framework/woodstock.config.php:592
+msgid "Search Bar"
+msgstr ""
+
+#: framework/woodstock.config.php:596
+msgid "Header Search bar"
+msgstr ""
+
+#: framework/woodstock.config.php:597
+msgid "Enable / Disable the Search Bar in the Header."
+msgstr ""
+
+#: framework/woodstock.config.php:606
+msgid "AJAX search"
+msgstr ""
+
+#: framework/woodstock.config.php:607
+msgid "Enable / Disable the AJAX in search."
+msgstr ""
+
+#: framework/woodstock.config.php:621
+msgid "Header Search Post Type"
+msgstr ""
+
+#: framework/woodstock.config.php:622
+msgid ""
+"Set whether you would like the site search limited to products, or all "
+"content."
+msgstr ""
+
+#: framework/woodstock.config.php:635
+msgid "Header Customer Support Box"
+msgstr ""
+
+#: framework/woodstock.config.php:639
+msgid "Customer Support box"
+msgstr ""
+
+#: framework/woodstock.config.php:640
+msgid "Enable / Disable the Customer Support in the Header."
+msgstr ""
+
+#: framework/woodstock.config.php:651
+msgid "Customer Support bar Title"
+msgstr ""
+
+#: framework/woodstock.config.php:652
+msgid "Enter the Customer Support bar Title"
+msgstr ""
+
+#: framework/woodstock.config.php:660
+msgid "Customer Support bar Subtitle"
+msgstr ""
+
+#: framework/woodstock.config.php:661
+msgid "Enter the Customer Support bar Subtitle"
+msgstr ""
+
+#: framework/woodstock.config.php:667
+msgid ""
+"\n"
+"Add HTML or shortcodes here that will show beside Cart and My Account links "
+"or replace them.<br />\n"
+"You could use these:<br />\n"
+"<b>[follow facebook=\"#\" twitter=\"#\" googleplus=\"#\" rss=\"#\"]<br />\n"
+"[contact city=\"New York\" phone=\"1-800-333-42-63\" address=\"78 2nd House "
+"RD Montauk, NY, 11954\" email=\"ny@woodstock.com\"]<br />\n"
+"[divider]\n"
+"</b>\n"
+"\n"
+msgstr ""
+
+#: framework/woodstock.config.php:678
+msgid "Customer Support bar Textarea"
+msgstr ""
+
+#: framework/woodstock.config.php:698 framework/woodstock.config.php:703
+#: framework/woodstock.config.php:1504
+msgid "Top Bar"
+msgstr ""
+
+#: framework/woodstock.config.php:704
+msgid "Enable / Disable the Top Bar."
+msgstr ""
+
+#: framework/woodstock.config.php:714
+msgid "Wishlist button"
+msgstr ""
+
+#: framework/woodstock.config.php:715
+msgid ""
+"Enable / Disable Wishlist button. (Should be installed and activated YITH "
+"Wishlist plugin)"
+msgstr ""
+
+#: framework/woodstock.config.php:725
+msgid "Languages/Currency select button"
+msgstr ""
+
+#: framework/woodstock.config.php:726
+msgid ""
+"Enable / Disable Languages/Currency select button. (Should be installed and "
+"activated WPML and Woocommerce Currency plugins)"
+msgstr ""
+
+#: framework/woodstock.config.php:736
+msgid "Top Bar Social Icons"
+msgstr ""
+
+#: framework/woodstock.config.php:737
+msgid ""
+"Enable / Disable the Top Bar Social Icons. Please select socials in \"Social "
+"Media\" section"
+msgstr ""
+
+#: framework/woodstock.config.php:757
+msgid "Navigation"
+msgstr ""
+
+#: framework/woodstock.config.php:762
+msgid ""
+"Check the box if you are are using UberMenu, this option adds UberMenu "
+"support without editing any code."
+msgstr ""
+
+#: framework/woodstock.config.php:765
+msgid "UberMenu Plugin Support"
+msgstr ""
+
+#: framework/woodstock.config.php:779
+msgid "Shop Settings"
+msgstr ""
+
+#: framework/woodstock.config.php:784
+msgid ""
+"Check to enable Catalog Mode. This option will turn off the shopping "
+"functionality of WooCommerce on theme pages."
+msgstr ""
+
+#: framework/woodstock.config.php:798
+msgid "Shop Breadcrumb"
+msgstr ""
+
+#: framework/woodstock.config.php:799
+msgid "Check to enable Breadcrumb on Shop"
+msgstr ""
+
+#: framework/woodstock.config.php:811
+msgid "Shop Catalog"
+msgstr ""
+
+#: framework/woodstock.config.php:819
+msgid "Shop Sidebar"
+msgstr ""
+
+#: framework/woodstock.config.php:820
+msgid "Select the default sidebar for Shop"
+msgstr ""
+
+#: framework/woodstock.config.php:823 framework/woodstock.config.php:1073
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/woodstock.config.php:827 framework/woodstock.config.php:1077
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/woodstock.config.php:831 framework/woodstock.config.php:1081
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/woodstock.config.php:842
+msgid "Shop Display"
+msgstr ""
+
+#: framework/woodstock.config.php:847
+msgid "Product Thumbs Display Type"
+msgstr ""
+
+#: framework/woodstock.config.php:848
+msgid "Choose the product display type for WooCommerce shop/category pages"
+msgstr ""
+
+#: framework/woodstock.config.php:851
+msgid "Standart"
+msgstr ""
+
+#: framework/woodstock.config.php:852
+msgid "Slider"
+msgstr ""
+
+#: framework/woodstock.config.php:853
+msgid "Preview Slider"
+msgstr ""
+
+#: framework/woodstock.config.php:860
+msgid "Second Image on Catalog Page (Hover)"
+msgstr ""
+
+#: framework/woodstock.config.php:861
+msgid "Enable / Disable the Second Image on Product Listing."
+msgstr ""
+
+#: framework/woodstock.config.php:871 framework/woodstock.config.php:883
+msgid "Maximum Images in Slider"
+msgstr ""
+
+#: framework/woodstock.config.php:872 framework/woodstock.config.php:884
+msgid "Drag the slider to set the maximum images in slider."
+msgstr ""
+
+#: framework/woodstock.config.php:897
+msgid "Shop Layout"
+msgstr ""
+
+#: framework/woodstock.config.php:902
+msgid "Product Display Layout"
+msgstr ""
+
+#: framework/woodstock.config.php:903
+msgid ""
+"Choose the default product display layout for WooCommerce shop/category pages"
+msgstr ""
+
+#: framework/woodstock.config.php:906
+msgid "Grid"
+msgstr ""
+
+#: framework/woodstock.config.php:907
+msgid "List"
+msgstr ""
+
+#: framework/woodstock.config.php:914
+msgid "Number of Categories per Column"
+msgstr ""
+
+#: framework/woodstock.config.php:915
+msgid ""
+"Drag the slider to set the number of categories per column to be listed on "
+"the shop page and catalog pages."
+msgstr ""
+
+#: framework/woodstock.config.php:925
+msgid "Number of Products per Column"
+msgstr ""
+
+#: framework/woodstock.config.php:926
+msgid ""
+"Drag the slider to set the number of products per column to be listed on the "
+"shop page and catalog pages."
+msgstr ""
+
+#: framework/woodstock.config.php:938
+msgid "Products per Page Box"
+msgstr ""
+
+#: framework/woodstock.config.php:939
+msgid "Comma separated list of product counts."
+msgstr ""
+
+#: framework/woodstock.config.php:959
+msgid "Ratings on Catalog Page"
+msgstr ""
+
+#: framework/woodstock.config.php:960
+msgid "Enable / Disable Ratings on Catalog Page."
+msgstr ""
+
+#: framework/woodstock.config.php:968
+msgid "Product Short Description"
+msgstr ""
+
+#: framework/woodstock.config.php:969
+msgid "Enable / Disable Product Short Description on Catalog Page."
+msgstr ""
+
+#: framework/woodstock.config.php:978
+msgid "Number of Words in Product Short Description"
+msgstr ""
+
+#: framework/woodstock.config.php:979
+msgid "Enter Number of Words in Product Short Description"
+msgstr ""
+
+#: framework/woodstock.config.php:994
+msgid "Shop Badges"
+msgstr ""
+
+#: framework/woodstock.config.php:998
+msgid "\"% Off\" Badge"
+msgstr ""
+
+#: framework/woodstock.config.php:999
+msgid "Check to enable \"% Off\" Badge in percentages instead \"Sale\" Badge"
+msgstr ""
+
+#: framework/woodstock.config.php:1008
+msgid "\"Sale\" Badge Label"
+msgstr ""
+
+#: framework/woodstock.config.php:1009
+msgid "Type in your custom \"Sale\" Badge Label Text."
+msgstr ""
+
+#: framework/woodstock.config.php:1017
+msgid "\"New\" Badge"
+msgstr ""
+
+#: framework/woodstock.config.php:1018
+msgid "Check to enable \"New\" Badge."
+msgstr ""
+
+#: framework/woodstock.config.php:1027
+msgid "\"New\" Badge Label"
+msgstr ""
+
+#: framework/woodstock.config.php:1028
+msgid "Type in your custom \"New\" Badge Label Text."
+msgstr ""
+
+#: framework/woodstock.config.php:1036
+msgid "\"New\" Badge Days"
+msgstr ""
+
+#: framework/woodstock.config.php:1037
+msgid "How many days \"New\" badge will display."
+msgstr ""
+
+#: framework/woodstock.config.php:1045
+msgid "\"Out of Stock\" Label Text"
+msgstr ""
+
+#: framework/woodstock.config.php:1046
+msgid "Type in your custom \"Out of Stock\" Label Text."
+msgstr ""
+
+#: framework/woodstock.config.php:1061
+msgid "Product Page"
+msgstr ""
+
+#: framework/woodstock.config.php:1069
+msgid "Product page sidebar"
+msgstr ""
+
+#: framework/woodstock.config.php:1070
+msgid "Select the default sidebar for Shop Single Page"
+msgstr ""
+
+#: framework/woodstock.config.php:1089
+msgid "Product Gallery Zoom"
+msgstr ""
+
+#: framework/woodstock.config.php:1090
+msgid "Enable / Disable Product Gallery Zoom."
+msgstr ""
+
+#: framework/woodstock.config.php:1099
+msgid "Number of Related Products per View"
+msgstr ""
+
+#: framework/woodstock.config.php:1100
+msgid "Drag the slider to set the number of Related Products per View."
+msgstr ""
+
+#: framework/woodstock.config.php:1110 framework/woodstock.config.php:3365
+msgid "Sharing Options"
+msgstr ""
+
+#: framework/woodstock.config.php:1111
+msgid "Enable / Disable Sharing Options on Product page."
+msgstr ""
+
+#: framework/woodstock.config.php:1128
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/woodstock.config.php:1133
+msgid "Select how many footer widget areas you want to display."
+msgstr ""
+
+#: framework/woodstock.config.php:1138
+msgid "Layout Off"
+msgstr ""
+
+#: framework/woodstock.config.php:1142
+msgid "Footer 1 column"
+msgstr ""
+
+#: framework/woodstock.config.php:1146
+msgid "Footer 2 columns"
+msgstr ""
+
+#: framework/woodstock.config.php:1150
+msgid "Footer 3 columns"
+msgstr ""
+
+#: framework/woodstock.config.php:1154
+msgid "Footer 4 columns"
+msgstr ""
+
+#: framework/woodstock.config.php:1158
+msgid "Footer 1-1-2 columns"
+msgstr ""
+
+#: framework/woodstock.config.php:1162
+msgid "Footer 1-2-1 columns"
+msgstr ""
+
+#: framework/woodstock.config.php:1166
+msgid "Footer 2-1-1 columns"
+msgstr ""
+
+#: framework/woodstock.config.php:1170
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: framework/woodstock.config.php:1175
+msgid "Check to Show Footer Logos/Credit Cards Sprite"
+msgstr ""
+
+#: framework/woodstock.config.php:1180
+msgid "Show/Hide Footer Logos/Credit Cards Sprite"
+msgstr ""
+
+#: framework/woodstock.config.php:1185
+msgid "Upload your custom icons sprite."
+msgstr ""
+
+#: framework/woodstock.config.php:1188
+msgid "Custom Footer Logos/Credit Cards Sprite"
+msgstr ""
+
+#: framework/woodstock.config.php:1196
+msgid ""
+"Whatever text you enter here will be displayed in your website's footer "
+"area. The primary purpose of this option is to display your website's "
+"Copyright text, but you can enter whatever text you like."
+msgstr ""
+
+#: framework/woodstock.config.php:1199
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/woodstock.config.php:1213
+msgid "Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1221
+msgid "Main Color Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1225
+msgid "Select a main color for your site."
+msgstr ""
+
+#: framework/woodstock.config.php:1228
+msgid "Main Theme Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1234
+msgid "Select a color for link"
+msgstr ""
+
+#: framework/woodstock.config.php:1237
+msgid "Link Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1246
+msgid "Ajax loaders"
+msgstr ""
+
+#: framework/woodstock.config.php:1253
+msgid "Ajax Loader Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1254
+msgid "Select the Ajax Loader Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1272 framework/woodstock.config.php:1330
+msgid "Page Loader"
+msgstr ""
+
+#: framework/woodstock.config.php:1279
+msgid "Page Loader Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1280
+msgid "Select the Page Loader Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1304
+msgid "Select a color for loader"
+msgstr ""
+
+#: framework/woodstock.config.php:1307
+msgid "Loader Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1315
+msgid "Select a color for loader background"
+msgstr ""
+
+#: framework/woodstock.config.php:1318
+msgid "Loader Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1325
+msgid "Enable/Disable Page Loader"
+msgstr ""
+
+#: framework/woodstock.config.php:1353
+msgid "Sticky Header Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1360
+msgid "Sticky Header Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:1361
+msgid "Choose the Sticky Header Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:1377
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1378
+msgid "Sticky Header background color."
+msgstr ""
+
+#: framework/woodstock.config.php:1389
+msgid "Sticky Header Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1390
+msgid "Pick the Opacity for Sticky Header Background"
+msgstr ""
+
+#: framework/woodstock.config.php:1391 framework/woodstock.config.php:1443
+#: framework/woodstock.config.php:1543 framework/woodstock.config.php:1575
+#: framework/woodstock.config.php:1629 framework/woodstock.config.php:1717
+#: framework/woodstock.config.php:1749 framework/woodstock.config.php:1802
+#: framework/woodstock.config.php:1912 framework/woodstock.config.php:1943
+#: framework/woodstock.config.php:1996 framework/woodstock.config.php:2129
+#: framework/woodstock.config.php:2158 framework/woodstock.config.php:2213
+#: framework/woodstock.config.php:2244 framework/woodstock.config.php:2296
+msgid "Min: 0, max: 100, step: 1, default value: 100"
+msgstr ""
+
+#: framework/woodstock.config.php:1407
+msgid "Sticky Header Navigation Dropdown Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1414
+msgid "Sticky Header Navigation DropDown Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:1415 framework/woodstock.config.php:2268
+msgid "Choose the Main Navigation DropDown Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:1430
+msgid "Sticky Header Navigation DropDown Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1431
+msgid "Pick the Sticky Header Navigation DropDown Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:1441
+msgid "Sticky Header Navigation DropDown Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1442
+msgid "Pick the Opacity for Sticky Header Navigation DropDown Background."
+msgstr ""
+
+#: framework/woodstock.config.php:1462
+msgid "Header"
+msgstr ""
+
+#: framework/woodstock.config.php:1472
+msgid "Main Header Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1478
+msgid "Header Paddings (Top/Bottom)"
+msgstr ""
+
+#: framework/woodstock.config.php:1479
+msgid "Drag the slider to set the paddings of the header."
+msgstr ""
+
+#: framework/woodstock.config.php:1488
+msgid "Header Background Color/Image"
+msgstr ""
+
+#: framework/woodstock.config.php:1489
+msgid "Pick the Header background color or select background image."
+msgstr ""
+
+#: framework/woodstock.config.php:1512
+msgid "Top Bar Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:1513
+msgid "Choose Top Bar Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:1529
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1530
+msgid "The Top Bar background color."
+msgstr ""
+
+#: framework/woodstock.config.php:1541
+msgid "Top Bar Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1559
+msgid "Top Bar Bottom Border Option"
+msgstr ""
+
+#: framework/woodstock.config.php:1560 framework/woodstock.config.php:2229
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: framework/woodstock.config.php:1561 framework/woodstock.config.php:2230
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: framework/woodstock.config.php:1573
+msgid "Top Bar Botom Border Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1590
+msgid "Top Bar Dropdown"
+msgstr ""
+
+#: framework/woodstock.config.php:1598
+msgid "Top Bar Dropdown Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:1599
+msgid "Choose Top Bar Dropdown Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:1615
+msgid "Top Bar Dropdown Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1616
+msgid "Pick the The Top Bar Dropdown background color."
+msgstr ""
+
+#: framework/woodstock.config.php:1627
+msgid "Top Bar Dopdown Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1628
+msgid "Pick the Top Bar Dopdown Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1646
+msgid "Header Search Box Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1653
+msgid "Header Search Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1654
+msgid "Select the Header Search Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1674
+msgid "Header Search Box Icon Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1675
+msgid "Pick the Header Search Box Icon Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1685
+msgid "Custom Header Search bar Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1686
+msgid ""
+"Upload your custom Search bar Icon image (45x45 px).<br />Ignore if you want "
+"to use the default icon."
+msgstr ""
+
+#: framework/woodstock.config.php:1693
+msgid "Search Box Input Text Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1694
+msgid "Pick the Color for Search Box Input Text"
+msgstr ""
+
+#: framework/woodstock.config.php:1703
+msgid "Search Box Input Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1704
+msgid "Pick the Color for Search Box Input Background"
+msgstr ""
+
+#: framework/woodstock.config.php:1715
+msgid "Search Box Input Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1716
+msgid "Pick the Search Box Input Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1730
+msgid "Search Box Input Border"
+msgstr ""
+
+#: framework/woodstock.config.php:1731
+msgid "Pick the Color for Search Box Input Border"
+msgstr ""
+
+#: framework/woodstock.config.php:1746
+msgid "Search Box Input Border Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1747
+msgid "Pick the Opacity for Search Box Input Border"
+msgstr ""
+
+#: framework/woodstock.config.php:1764
+msgid "Search Box Ajax DropDown Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1772
+msgid "Search Box Ajax DropDown Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:1773
+msgid ""
+"Choose the Search Box Ajax DropDown Color Scheme. Should be installed \"AJAX "
+"AutoSuggest\" plugin."
+msgstr ""
+
+#: framework/woodstock.config.php:1788
+msgid "Search Box Ajax DropDown Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1789
+msgid ""
+"Pick the Search Box Ajax DropDown Background Color. Should be installed "
+"\"AJAX AutoSuggest\" plugin."
+msgstr ""
+
+#: framework/woodstock.config.php:1800
+msgid "Search Box Ajax DropDown Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1801
+msgid "Pick the Opacity for Search Box Ajax DropDown Background."
+msgstr ""
+
+#: framework/woodstock.config.php:1819
+msgid "Customer Support Box Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1826
+msgid "Customer Support Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1827
+msgid "Select the Customer Support Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1859
+msgid "Customer Support Box Icon Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1860
+msgid "Pick the Color for Customer Support Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1869
+msgid "Custom Customer Support Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:1870
+msgid ""
+"Upload your custom Customer Support Box Icon image (30x30 px).<br />Ignore "
+"if you want to use the default icon."
+msgstr ""
+
+#: framework/woodstock.config.php:1881 framework/woodstock.config.php:1966
+msgid "Customer Support Box Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:1882
+msgid "Choose the Customer Support Box Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:1897
+msgid "Customer Support Box Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1898
+msgid "Pick the Customer Support Box Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:1909
+msgid "Customer Support Box Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1910
+msgid "Pick the Opacity for Customer Support Box"
+msgstr ""
+
+#: framework/woodstock.config.php:1924
+msgid "Customer Support Box Border"
+msgstr ""
+
+#: framework/woodstock.config.php:1925
+msgid "Pick the Color for Customer Support Box Border"
+msgstr ""
+
+#: framework/woodstock.config.php:1940
+msgid "Customer Support Box Border Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1941
+msgid "Pick the Opacity for Customer Support Box Border"
+msgstr ""
+
+#: framework/woodstock.config.php:1958
+msgid "Customer Support Box Dropdown Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:1967
+msgid "Choose the Search Customer Support Box Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:1982
+msgid "Customer Support Box DropDown Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:1983
+msgid ""
+"Pick the Customer Support Box DropDown Background Color. Should be installed "
+"\"AJAX AutoSuggest\" plugin."
+msgstr ""
+
+#: framework/woodstock.config.php:1994
+msgid "Customer Support Box DropDown Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:1995
+msgid "Pick the Opacity for Customer Support Box Background."
+msgstr ""
+
+#: framework/woodstock.config.php:2013
+msgid "Shopping Cart Box Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:2020
+msgid "Shopping Cart Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:2021
+msgid "Select the Shopping Cart Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:2050
+msgid "Customer Shopping Cart Box Icon Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2051
+msgid "Pick the Color for Shopping Cart Box Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:2060
+msgid "Custom Shopping Cart Box Icon"
+msgstr ""
+
+#: framework/woodstock.config.php:2061
+msgid ""
+"Upload your custom Shopping Cart Box Icon image (45x45 px).<br />Ignore if "
+"you want to use the default icon."
+msgstr ""
+
+#: framework/woodstock.config.php:2072
+msgid "Shopping Cart Box Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2073
+msgid "Choose the Shopping Cart Box Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2093
+msgid "Mobile Menu Button Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:2100
+msgid "Mobile Menu Button Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2101
+msgid "Choose the Mobile Menu Button Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2116
+msgid "Mobile Menu Button Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2117
+msgid "Pick the Mobile Menu Button Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:2127
+msgid "Mobile Menu Button Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:2128
+msgid "Pick the Opacity for Mobile Menu Button"
+msgstr ""
+
+#: framework/woodstock.config.php:2141
+msgid "Mobile Menu Button Border"
+msgstr ""
+
+#: framework/woodstock.config.php:2142
+msgid "Pick the Color for Mobile Menu Button Border"
+msgstr ""
+
+#: framework/woodstock.config.php:2156
+msgid "Mobile Menu Button Border Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:2157
+msgid "Pick the Opacity for Mobile Menu Button Border"
+msgstr ""
+
+#: framework/woodstock.config.php:2176
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/woodstock.config.php:2184
+msgid "Main Navigation Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2185
+msgid "Choose the Main Navigation Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2200
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2201
+msgid "Pick the Main Navigation Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:2211
+msgid "Main Navigation Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:2212
+msgid "Pick the Opacity for Main Navigation"
+msgstr ""
+
+#: framework/woodstock.config.php:2228
+msgid "Main Navigation Border Option"
+msgstr ""
+
+#: framework/woodstock.config.php:2242
+msgid "Main Navigation Border Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:2260
+msgid "Main Navigation Dropdown Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:2267
+msgid "Main Navigation DropDown Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2283
+msgid "Main Navigation DropDown Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2284
+msgid "Pick the Main Navigation DropDown Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:2294
+msgid "Main Navigation DropDown Background Opacity"
+msgstr ""
+
+#: framework/woodstock.config.php:2295
+msgid "Pick the Opacity for Main Navigation Background."
+msgstr ""
+
+#: framework/woodstock.config.php:2315
+msgid "Main Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:2323
+msgid "Shop Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:2327
+msgid "Main Title Area Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2328
+msgid "Pick the Default Main Title Area Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:2347
+msgid "Main Title Area Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2348
+msgid "Choose the Default Main Title Area Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2366
+msgid "Default Title Content Align"
+msgstr ""
+
+#: framework/woodstock.config.php:2367
+msgid "Select the Default Title Content Align."
+msgstr ""
+
+#: framework/woodstock.config.php:2382
+msgid "Shop Header Parallax"
+msgstr ""
+
+#: framework/woodstock.config.php:2383
+msgid "Enable / Disable Parallax in the Shop Header."
+msgstr ""
+
+#: framework/woodstock.config.php:2394
+msgid "Shopping Cart Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:2395
+msgid "Show / Hide Title Area in Shopping Cart Page"
+msgstr ""
+
+#: framework/woodstock.config.php:2404
+msgid "Checkout Page Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:2405
+msgid "Show / Hide Title Area in Checkout Page"
+msgstr ""
+
+#: framework/woodstock.config.php:2414
+msgid "My Account Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:2415
+msgid "Show / Hide Title Area in My Account Section"
+msgstr ""
+
+#: framework/woodstock.config.php:2429
+msgid "Pages Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:2433
+msgid "Page Title Area Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2434
+msgid "Pick the Default Page Title Area Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:2453
+msgid "Page Title Area Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2454
+msgid "Choose the Default Page Title Area Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2472
+msgid "Default Page Title Content Align"
+msgstr ""
+
+#: framework/woodstock.config.php:2473
+msgid "Select the Default Page Title Content Align."
+msgstr ""
+
+#: framework/woodstock.config.php:2488
+msgid "Page Header Parallax"
+msgstr ""
+
+#: framework/woodstock.config.php:2489
+msgid "Enable / Disable Parallax in the Page Header."
+msgstr ""
+
+#: framework/woodstock.config.php:2503
+msgid "Blog Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:2507
+msgid "Blog Title Area Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2508
+msgid "Pick the Default Blog Title Area Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:2527
+msgid "Blog Title Area Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2528
+msgid "Choose the Default Blog Title Area Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2546
+msgid "Default Blog Title Content Align"
+msgstr ""
+
+#: framework/woodstock.config.php:2547
+msgid "Select the Default Blog Title Content Align."
+msgstr ""
+
+#: framework/woodstock.config.php:2562
+msgid "Blog Header Parallax"
+msgstr ""
+
+#: framework/woodstock.config.php:2563
+msgid "Enable / Disable Parallax in the Blog Header."
+msgstr ""
+
+#: framework/woodstock.config.php:2581
+msgid "Main Content"
+msgstr ""
+
+#: framework/woodstock.config.php:2586
+msgid "Main Content Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2587
+msgid "Pick the Default Main Title Content Background Color."
+msgstr ""
+
+#: framework/woodstock.config.php:2598
+msgid "Main Content Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2599
+msgid "Choose the Main Content Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2618
+msgid "Product Grid Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:2625
+msgid "Product Item Border"
+msgstr ""
+
+#: framework/woodstock.config.php:2626
+msgid "Choose to display or not Product Border"
+msgstr ""
+
+#: framework/woodstock.config.php:2642
+msgid "Product Item Border Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2643
+msgid "Pick the Product Border Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2655
+msgid "Product Item Align"
+msgstr ""
+
+#: framework/woodstock.config.php:2656
+msgid "Choose the Product Item Align"
+msgstr ""
+
+#: framework/woodstock.config.php:2681
+msgid "Sidebars"
+msgstr ""
+
+#: framework/woodstock.config.php:2692
+msgid "Offcanvas Left Sidebar Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:2699
+msgid "Offcanvas Navigation Sidebar Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2700
+msgid "Choose the Offcanvas Navigation Sidebar Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2721
+msgid "Offcanvas Right Shopping Cart Styling"
+msgstr ""
+
+#: framework/woodstock.config.php:2728
+msgid "Offcanvas Shopping Cart Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2729
+msgid "Choose the Offcanvas Shopping Cart Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2753
+msgid "Footer"
+msgstr ""
+
+#: framework/woodstock.config.php:2760
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2761
+msgid "Pick the Footer Background Color"
+msgstr ""
+
+#: framework/woodstock.config.php:2772
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: framework/woodstock.config.php:2773
+msgid "Choose the Footer Color Scheme."
+msgstr ""
+
+#: framework/woodstock.config.php:2795
+msgid "Typography"
+msgstr ""
+
+#: framework/woodstock.config.php:2804
+msgid "Content Typography"
+msgstr ""
+
+#: framework/woodstock.config.php:2810
+msgid "Body Font"
+msgstr ""
+
+#: framework/woodstock.config.php:2811
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:2838
+msgid "Heading Typography"
+msgstr ""
+
+#: framework/woodstock.config.php:2844
+msgid "H1 Heading Font"
+msgstr ""
+
+#: framework/woodstock.config.php:2845
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:2870
+msgid "H2 Heading Font"
+msgstr ""
+
+#: framework/woodstock.config.php:2871
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:2896
+msgid "H3 Heading Font"
+msgstr ""
+
+#: framework/woodstock.config.php:2897
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:2922
+msgid "H4 Heading Font"
+msgstr ""
+
+#: framework/woodstock.config.php:2923
+msgid "Specify the H4 font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:2948
+msgid "H5 Heading Font"
+msgstr ""
+
+#: framework/woodstock.config.php:2949
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:2974
+msgid "H6 Heading Font"
+msgstr ""
+
+#: framework/woodstock.config.php:2975
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:3002
+msgid "Navigation Typography"
+msgstr ""
+
+#: framework/woodstock.config.php:3008
+msgid "Navigation Font"
+msgstr ""
+
+#: framework/woodstock.config.php:3009
+msgid "Specify the Navigation font properties."
+msgstr ""
+
+#: framework/woodstock.config.php:3036
+msgid "Submenu/Subtitle Navigation Font"
+msgstr ""
+
+#: framework/woodstock.config.php:3051
+msgid "Pick the navigation font for your website."
+msgstr ""
+
+#: framework/woodstock.config.php:3072
+msgid "Social Media / Sharing"
+msgstr ""
+
+#: framework/woodstock.config.php:3080
+msgid "Social Network for Sharing"
+msgstr ""
+
+#: framework/woodstock.config.php:3087
+msgid "Social Network for Share"
+msgstr ""
+
+#: framework/woodstock.config.php:3088
+msgid "Select Social Networks for Share"
+msgstr ""
+
+#: framework/woodstock.config.php:3115
+msgid "Social Networks profiles"
+msgstr ""
+
+#: framework/woodstock.config.php:3119
+msgid "<i class=\"fa fa-twitter\"></i> Twitter"
+msgstr ""
+
+#: framework/woodstock.config.php:3120
+msgid "Type your Twitter profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3127
+msgid "<i class=\"fa fa-facebook\"></i> Facebook"
+msgstr ""
+
+#: framework/woodstock.config.php:3128
+msgid "Type your Facebook profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3135
+msgid "<i class=\"fa fa-google-plus\"></i> Google+"
+msgstr ""
+
+#: framework/woodstock.config.php:3136
+msgid "Type your Google+ profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3142
+msgid "<i class=\"fa fa-pinterest\"></i> Pinterest"
+msgstr ""
+
+#: framework/woodstock.config.php:3143
+msgid "Type your Pinterest profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3150
+msgid "<i class=\"fa fa-vimeo-square\"></i> Vimeo"
+msgstr ""
+
+#: framework/woodstock.config.php:3151
+msgid "Type your Vimeo profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3157
+msgid "<i class=\"fa fa-youtube-play\"></i> Youtube"
+msgstr ""
+
+#: framework/woodstock.config.php:3158
+msgid "Type your Youtube profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3164
+msgid "<i class=\"fa fa-flickr\"></i> Flickr"
+msgstr ""
+
+#: framework/woodstock.config.php:3165
+msgid "Type your Flickr profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3171
+msgid "<i class=\"fa fa-skype\"></i> Skype"
+msgstr ""
+
+#: framework/woodstock.config.php:3172
+msgid "Type your Skype profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3178
+msgid "<i class=\"fa fa-behance\"></i> Behance"
+msgstr ""
+
+#: framework/woodstock.config.php:3179
+msgid "Type your Behance profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3185
+msgid "<i class=\"fa fa-dribbble\"></i> Dribble"
+msgstr ""
+
+#: framework/woodstock.config.php:3186
+msgid "Type your Dribble profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3192
+msgid "<i class=\"fa fa-tumblr\"></i> Tumblr"
+msgstr ""
+
+#: framework/woodstock.config.php:3193
+msgid "Type your Tumblr URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3199
+msgid "<i class=\"fa fa-linkedin\"></i> LinkedIn"
+msgstr ""
+
+#: framework/woodstock.config.php:3200
+msgid "Type your LinkedIn profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3206
+msgid "<i class=\"fa fa-github\"></i> Github"
+msgstr ""
+
+#: framework/woodstock.config.php:3207
+msgid "Type your Github profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3213
+msgid "<i class=\"fa fa-vine\"></i> Vine"
+msgstr ""
+
+#: framework/woodstock.config.php:3214
+msgid "Type your Vine profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3220
+msgid "<i class=\"fa fa-instagram\"></i> Instagram"
+msgstr ""
+
+#: framework/woodstock.config.php:3221
+msgid "Type your Instagram profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3227
+msgid "<i class=\"fa fa-dropbox\"></i> Dropbox"
+msgstr ""
+
+#: framework/woodstock.config.php:3228
+msgid "Type your Dropbox profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3234
+msgid "<i class=\"fa fa-rss\"></i> RSS"
+msgstr ""
+
+#: framework/woodstock.config.php:3235
+msgid "Type your RSS Feed URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3241
+msgid "<i class=\"fa fa-stumbleupon\"></i> Stumbleupon"
+msgstr ""
+
+#: framework/woodstock.config.php:3242
+msgid "Type your Stumbleupon URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3248
+msgid "<i class=\"fa fa-paypal\"></i> Paypal"
+msgstr ""
+
+#: framework/woodstock.config.php:3249
+msgid "Type your Paypal URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3255
+msgid "<i class=\"fa fa-foursquare\"></i> Foursquare"
+msgstr ""
+
+#: framework/woodstock.config.php:3256
+msgid "Type your Foursquare profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3262
+msgid "<i class=\"fa fa-soundcloud\"></i> Soundcloud"
+msgstr ""
+
+#: framework/woodstock.config.php:3263
+msgid "Type your Soundcloud profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3269
+msgid "<i class=\"fa fa-spotify\"></i> Spotify"
+msgstr ""
+
+#: framework/woodstock.config.php:3270
+msgid "Type your Spotify profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3276
+msgid "<i class=\"fa fa-vk\"></i> VKontakte"
+msgstr ""
+
+#: framework/woodstock.config.php:3277
+msgid "Type your VK profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3283
+msgid "<i class=\"fa fa-android\"></i> Android"
+msgstr ""
+
+#: framework/woodstock.config.php:3284
+msgid "Type your Android URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3290
+msgid "<i class=\"fa fa-apple\"></i> Apple"
+msgstr ""
+
+#: framework/woodstock.config.php:3291
+msgid "Type your Apple URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3297
+msgid "<i class=\"fa fa-windows\"></i> Windows"
+msgstr ""
+
+#: framework/woodstock.config.php:3298
+msgid "Type your Windows profile URL here."
+msgstr ""
+
+#: framework/woodstock.config.php:3312
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/woodstock.config.php:3320
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/woodstock.config.php:3321
+msgid "Select the layout style for the Blog Listing."
+msgstr ""
+
+#: framework/woodstock.config.php:3339
+msgid "Single Blog Post Layout"
+msgstr ""
+
+#: framework/woodstock.config.php:3340
+msgid "Select the layout style for the Blog Post."
+msgstr ""
+
+#: framework/woodstock.config.php:3355
+msgid "Blog Post Title Area"
+msgstr ""
+
+#: framework/woodstock.config.php:3356
+msgid "Show / Hide Blog Title Area on Single Post"
+msgstr ""
+
+#: framework/woodstock.config.php:3366
+msgid "Enable / Disable Sharing Options on Blog single page."
+msgstr ""
+
+#: framework/woodstock.config.php:3383
+msgid "Custom Code"
+msgstr ""
+
+#: framework/woodstock.config.php:3388
+msgid ""
+"Paste your custom CSS code here. The code will be added to the header of "
+"your site."
+msgstr ""
+
+#: framework/woodstock.config.php:3392
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/woodstock.config.php:3396
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+
+#: framework/woodstock.config.php:3400
+msgid "Google Analytics / Footer JavaScript Code"
+msgstr ""
+
+#: framework/woodstock.config.php:3407
+msgid "Theme Documentation"
+msgstr ""
+
+#: framework/woodstock.config.php:3415
+msgid ""
+"\n"
+"                <a href=\"https://temashdesign.ticksy.com/articles/100001538/"
+"\" target=\"_blank\"><strong>Woodstock Theme&#39;s Documentation</strong></"
+"a></br> Everything you need to know about the theme, from installation and "
+"setup to customization.</br></br>\n"
+"                <a href=\"http://codex.wordpress.org/Installing_WordPress\" "
+"target=\"_blank\"><strong>Installing WordPress</strong></a></br> Installing "
+"WordPress</br></br>\n"
+"                <a href=\"https://www.youtube.com/playlist?"
+"list=PLfOXCtnURNbZjLUyU_Isp39VdAjqEctNw\" target=\"_blank"
+"\"><strong>WordPress for Beginners 2015</strong></a></br> WordPress for "
+"Beginners 2015 is a course specifically designed by the great folks from "
+"WordPress Informer for those who want to learn WordPress step-by-step, from "
+"the very beginning.</br></br>\n"
+"                <a href=\"https://docs.woothemes.com/documentation/plugins/"
+"woocommerce/\" target=\"_blank\"><strong>WooThemes Documentation</strong></"
+"a></br> Documentation, Reference Materials, and Tutorials for your WooThemes "
+"products</br></br>\n"
+"                <a href=\"https://www.youtube.com/playlist?"
+"list=PLHdG8zvZd0E575Ia8Mu3w1h750YLXNfsC\" target=\"_blank"
+"\"><strong>WooCommerce 101</strong></a></br> This series of videos covers "
+"anything and everything you&#39;d need to know about installing & setting up "
+"WooCommerce.</br></br>"
+msgstr ""
+
+#: framework/woodstock.config.php:3430
+msgid "Customizer Only"
+msgstr ""
+
+#: framework/woodstock.config.php:3431
+msgid ""
+"<p class=\"description\">This Section should be visible only in Customizer</"
+"p>"
+msgstr ""
+
+#: framework/woodstock.config.php:3437
+msgid "Customizer Only Option"
+msgstr ""
+
+#: framework/woodstock.config.php:3438
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: framework/woodstock.config.php:3439
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: framework/woodstock.config.php:3537
+msgid "Section via hook"
+msgstr ""
+
+#: framework/woodstock.config.php:3538
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: modules/shortcodes/from-the-blog.php:88
+msgid "No comments yet"
+msgstr ""
+
+#: modules/shortcodes/from-the-blog.php:88
+msgid "1 comment"
+msgstr ""
+
+#: modules/shortcodes/from-the-blog.php:88
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:45
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:48
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:51
+msgid "Follow us on Google Plus"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:54
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:57
+msgid "Follow us on Vimeo"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:60
+msgid "Follow us on YouTube"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:63
+msgid "Follow us on Flickr"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:66
+msgid "Follow us on Skype"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:69
+msgid "Follow us on Behance"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:72
+msgid "Follow us on Dribbble"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:75
+msgid "Follow us on Tumblr"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:78
+msgid "Follow us on Linkedin"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:81
+msgid "Follow us on Github"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:84
+msgid "Follow us on Vine"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:87
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:90
+msgid "Follow us on Dropbox"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:93
+msgid "Follow us on RSS"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:96
+msgid "Email Us"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:99
+msgid "Follow us on Stumbleupon"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:102
+msgid "Follow us on Paypal"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:105
+msgid "Follow us on Foursquare"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:108
+msgid "Follow us on Soundcloud"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:111
+msgid "Follow us on Spotify"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:114
+msgid "Follow us on Vkontakte"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:117
+msgid "Follow us on Android"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:120
+msgid "Follow us on Apple"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:123
+msgid "Follow us on Microsoft"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:31
+msgid "Blog Posts"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:32
+#: modules/shortcodes/visual-composer/from-the-blog.php:32
+msgid "Content"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:33
+#: modules/shortcodes/visual-composer/from-the-blog.php:33
+msgid "Display the latest posts in the blog"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:56
+#: modules/shortcodes/visual-composer/from-the-blog.php:46
+msgid "Number of Posts"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:59
+#: modules/shortcodes/visual-composer/from-the-blog.php:49
+msgid "Number of posts to be displayed in the slider."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:67
+#: modules/shortcodes/visual-composer/from-the-blog.php:57
+msgid "Category"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/from-the-blog.php:31
+msgid "Posts Slider"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:6
+msgid "Social Media Profiles"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:7
+msgid "Social"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:8
+msgid "Links to your social media profiles"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:20
+msgid "Align"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:6
+msgid "Add to Cart URL"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:7
+msgid "WooCommerce"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:8
+msgid "Description"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:20
+msgid "ID"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:30
+msgid "SKU"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woodstock Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://woodstock.temashdesign.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extensions for Woodstock Wordpress Theme. Supplied as a separate plugin so "
+"that the customer does not find empty shortcodes on changing the theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Temash Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://temashdesign.com/"
+msgstr ""
